@@ -1,13 +1,14 @@
-# Calculadora
+ 
+<h1 align="center">Calculadora HTML, CSS e JavaScript</h1>
 
 <div>
-## Modo Light
+  <h2>Modo Light</h2>
 <img src="modolight.png">
-</div>
-##
-<div>
-## Modo Dark
+  <h3>Modo Dark</h3>
 <img src="mododark.png">
 </div>
+
+
+
 
  
